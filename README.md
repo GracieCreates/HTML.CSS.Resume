@@ -1,2 +1,4 @@
 # HTML.CSS.Resume
-HTML/CSS Resume_Simple
+
+This is a simple HTML/CSS Resume Template
+
