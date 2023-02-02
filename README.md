@@ -3,7 +3,7 @@
 ## DIY Thursday! **DIGITAL RESUME**
 ---
 ## This is a simple HTML/CSS Digital Resume Template
-**[Clicke here to see the digital template online](https://www.example.com)
+**[Clicke here to see the digital template online](http://127.0.0.1:5500/Resume.html)
 ---
 
 ![alt text](HTML.CSS%20CV%20Template.jpg)
